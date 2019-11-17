@@ -1,0 +1,11 @@
+{
+  "name": "com.examplecompany.exampleproduct",
+  "displayName": "Unity Examples, Tips and Tricks",
+  "version": "0.5.1-preview",
+  "unity": "2019.2",
+  "description": "Small collections of useful examples and code snippets.",
+  "keywords": [
+    "examples"
+  ],
+  "type": "module"
+}
